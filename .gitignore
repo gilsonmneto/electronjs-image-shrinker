@@ -1,0 +1,19 @@
+
+/node_modules
+
+/.idea
+/.git
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+menu.bat
+
+# System Files
+.DS_Store
+Thumbs.db
