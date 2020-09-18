@@ -1,3 +1,3 @@
 ELECTRONJS - JAVASCRIPT - NODEJS
 
-![Image](https://github.com/tograh/testrepository/master/3DTest.png 180)
+![Image](https://github.com/gilsonmneto/electronjs-image-shrinker/tree/master/assets/images/screen.jpg)
